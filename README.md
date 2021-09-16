@@ -7,3 +7,4 @@ Was muss ich noch machen?
 -Auslogg Funktion + Zeit die man da war
 -entwickler konsole erstellen mit password 
 -jedes menü fertig machen
+-registrieren button machen
